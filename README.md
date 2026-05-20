@@ -17,6 +17,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 You can find the file for the dashboard here:
 [`Data_Jobs_Dashboard.pbix`](/Data_Jobs_v1/Data_Jobs_Dashboard.pbix).
 
+---
 This initial dashboard provides a comprehensive two-page exploration of the data job market, designed for job seekers. It features a high-level summary page and a detailed drill-through page for specific job titles, offering a broad look at market trends and compensation.
 
 **Key Power BI Skills Utilized:**
@@ -36,6 +37,12 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
 ![Data Jobs Dashboard 2.0](/Images/Project2_Page1.JPG)
+
+**Dashboard File**
+
+You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](/Data_Jobs_v2/Data_Jobs_Dashboard_2.0.pbix).
+
+---
 
 **Key Power BI Skills Utilized (demonstrating progression):**
 * 🎨 Advanced Dashboard Design (Single-Page UX & Optimization)
